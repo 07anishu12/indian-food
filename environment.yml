@@ -20,6 +20,7 @@ dependencies:
   - plotly
   - seaborn
   - geopandas
+  - cufflinks-py
 
   - bottleneck
   - pip
