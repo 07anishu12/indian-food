@@ -240,3 +240,4 @@ for state in unique_states:
     title = f"{state} Food Infograph"
     print(f"Creating infographic for: {state}")
     state_infograph(state, title)
+    

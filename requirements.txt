@@ -1,0 +1,14 @@
+numpy
+pandas
+networkx
+geopandas
+matplotlib
+seaborn
+plotly
+kaleido
+cufflinks
+wordcloud
+pillow
+scikit-learn
+jupyter
+notebook 
